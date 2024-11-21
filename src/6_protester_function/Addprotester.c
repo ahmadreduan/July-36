@@ -5,7 +5,7 @@ void loadCount();
 void saveCount();
 void AddMartyr();
 
-void AddMartyr()
+void AddProteser()
 {
     printf(BCYN "-----------------------------------------------------------------------------------------\n");
     printf("                                   ADD MARTYRS                                                \n");

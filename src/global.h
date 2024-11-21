@@ -36,23 +36,29 @@ void AllMenu();         // complete txt read file 1
 void displayMenu();     // complete txt read file 2
 void initialMovement(); // complete txt read file 3
 
+//===== MARTYRS ===
 void loadLeaderCount();
 void saveLeaderCount();
 void leaderMain();
 void leaderMenu();  // complte
 void addLeader();   // this a sub main function
 void viewleaders(); // complete txt read file 8
-void viewprofile(); //  incomplete
+// void viewprofile(); //  incomplete
 
 //===== MARTYRS ===
-
 void MartyarMenu();
 void MartyrMain();
 void AddMartyr();
 void ListMartyrs();
-void ViewMartyrprofile();
+// void ViewMartyrprofile();
 
+//===== MARTYRS ===
 void protesterMenu();
+void ProtesterMain();
+void AddProteser();
+void ListProtester();
+// void ViewProtesterprofile();
+
 void participants();    // complete txt read file 4
 void stepsOfMovement(); // complete txt read file 5
 void inputProtester();

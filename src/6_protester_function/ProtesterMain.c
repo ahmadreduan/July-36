@@ -4,7 +4,7 @@
 #include "ListProtest.c"
 #include "ViewProtesterProfile.c"
 
-void MartyrMain()
+void ProtesterMain()
 {
     printf(BCYN "-----------------------------------------------------------------------------------------\n");
     printf("                          THE PROTESTER\n");
@@ -20,13 +20,13 @@ void MartyrMain()
         switch (choice)
         {
         case 1:
-            AddMartyr();
+            AddProteser();
             break;
         case 2:
-            ListMartyrs();
+            ListProtester();
             break;
         case 3:
-            //ViewMartyrprofile();
+            //ViewProtesterprofile();
             break;
         case 4:
             return;

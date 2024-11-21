@@ -1,9 +1,9 @@
 #include "../global.h"
 
-void ListMartyrs()
+void ListProtester()
 {
     printf(BCYN "-----------------------------------------------------------------------------------------\n");
-    printf("                          MARTYERS LIST\n");
+    printf("                          PROTESTER LIST\n");
     printf("-----------------------------------------------------------------------------------------\n" RESET);
     
     char buffer[BUFFER_SIZE];
